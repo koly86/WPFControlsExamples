@@ -1,0 +1,233 @@
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\bin\Debug\SimpleStyles.exe
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\bin\Debug\SimpleStyles.pdb
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Page1.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Page2.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\Button.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\CheckBox.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\ComboBox.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\DocumentViewer.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\ResizeGrip.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\TestNavigationWindow.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\TestWindow.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\Window.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\NavigationWindow.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\StatusBar.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\ScrollViewer.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\Frame.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\ListView.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\Expander.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\GroupBox.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\Label.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\ListBox.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\Menu.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\ProgressBar.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\RadioButton.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\ScrollBar.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\Separator.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\Shared.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\Slider.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\TabControl.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\TextBox.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\ToolBar.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\ToolTip.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Resources\TreeView.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Window1.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\app.baml
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Page1.g.cs
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Page2.g.cs
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\TestNavigationWindow.g.cs
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\TestWindow.g.cs
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\Window1.g.cs
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\app.g.cs
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\SimpleStyles_MarkupCompile.cache
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\SimpleStyles.g.resources
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\SimpleStyles.exe
+D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\obj\Debug\SimpleStyles.pdb
+D:\Work\Lessons\CBS_CS_WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\SimpleStyles.exe
+D:\Work\Lessons\CBS_CS_WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\SimpleStyles.pdb
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\SimpleStyles.exe
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\SimpleStyles.pdb
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\bin\Debug\SimpleStyles.exe
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\bin\Debug\SimpleStyles.pdb
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Page1.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Page2.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\Button.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\CheckBox.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\ComboBox.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\DocumentViewer.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\ResizeGrip.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\TestNavigationWindow.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\TestWindow.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\Window.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\NavigationWindow.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\StatusBar.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\ScrollViewer.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\Frame.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\ListView.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\Expander.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\GroupBox.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\Label.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\ListBox.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\Menu.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\ProgressBar.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\RadioButton.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\ScrollBar.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\Separator.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\Shared.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\Slider.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\TabControl.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\TextBox.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\ToolBar.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\ToolTip.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Resources\TreeView.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Window1.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\app.baml
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Page1.g.cs
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Page2.g.cs
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\TestNavigationWindow.g.cs
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\TestWindow.g.cs
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\Window1.g.cs
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\app.g.cs
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\SimpleStyles_MarkupCompile.cache
+D:\Work\Lessons\WPF\Lesson_013 (Templates)\006_SimpleStyles\obj\Debug\SimpleStyles.g.resources
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.exe
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.pdb
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\bin\Debug\SimpleStyles.exe
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\bin\Debug\SimpleStyles.pdb
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Page1.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Page2.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Button.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\CheckBox.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ComboBox.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\DocumentViewer.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ResizeGrip.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\TestNavigationWindow.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\TestWindow.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Window.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\NavigationWindow.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\StatusBar.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ScrollViewer.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Frame.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ListView.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Expander.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\GroupBox.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Label.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ListBox.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Menu.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ProgressBar.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\RadioButton.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ScrollBar.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Separator.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Shared.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Slider.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\TabControl.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\TextBox.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ToolBar.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ToolTip.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\TreeView.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Window1.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\app.baml
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Page1.g.cs
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Page2.g.cs
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\TestNavigationWindow.g.cs
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\TestWindow.g.cs
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Window1.g.cs
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\app.g.cs
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles_MarkupCompile.cache
+D:\Work\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.g.resources
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.exe
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.pdb
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\bin\Debug\SimpleStyles.exe
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\bin\Debug\SimpleStyles.pdb
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.csprojResolveAssemblyReference.cache
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Page1.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Page2.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Button.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\CheckBox.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ComboBox.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\DocumentViewer.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ResizeGrip.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\TestNavigationWindow.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\TestWindow.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Window.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\NavigationWindow.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\StatusBar.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ScrollViewer.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Frame.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ListView.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Expander.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\GroupBox.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Label.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ListBox.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Menu.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ProgressBar.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\RadioButton.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ScrollBar.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Separator.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Shared.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\Slider.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\TabControl.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\TextBox.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ToolBar.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\ToolTip.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Resources\TreeView.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Window1.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\app.baml
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Page1.g.cs
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Page2.g.cs
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\TestNavigationWindow.g.cs
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\TestWindow.g.cs
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\Window1.g.cs
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\app.g.cs
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles_MarkupCompile.cache
+D:\Lessons\WPF\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.g.resources
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\bin\Debug\SimpleStyles.exe
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\bin\Debug\SimpleStyles.pdb
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.csprojResolveAssemblyReference.cache
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Page1.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Page2.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\Button.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\CheckBox.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\ComboBox.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\DocumentViewer.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\ResizeGrip.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\TestNavigationWindow.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\TestWindow.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\Window.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\NavigationWindow.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\StatusBar.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\ScrollViewer.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\Frame.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\ListView.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\Expander.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\GroupBox.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\Label.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\ListBox.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\Menu.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\ProgressBar.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\RadioButton.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\ScrollBar.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\Separator.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\Shared.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\Slider.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\TabControl.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\TextBox.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\ToolBar.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\ToolTip.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Resources\TreeView.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Window1.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\app.baml
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Page1.g.cs
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Page2.g.cs
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\TestNavigationWindow.g.cs
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\TestWindow.g.cs
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\Window1.g.cs
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\app.g.cs
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles_MarkupCompile.cache
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.g.resources
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.csproj.CoreCompileInputs.cache
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.exe
+E:\MyWork\CSharp\ITVDN\WPF\WPFadvanced-materials\control-templates-materials\013 Templates\006_SimpleStyles\obj\Debug\SimpleStyles.pdb

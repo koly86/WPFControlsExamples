@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SimpleStyles">
+</Property><Property Name="Solution File" Value="D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\SimpleStyles.sln">
+</Property><Property Name="User Options File" Value="D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\SimpleStyles.suo">
+</Property><Property Name="Date" Value="30 июня 2010 г.">
+</Property><Property Name="Time" Value="18:04">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SimpleStyles.sln" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\SimpleStyles.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SimpleStyles.suo" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\SimpleStyles.suo">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="SimpleStyles.csproj" Description="Project file successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\SimpleStyles.csproj">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Page1.xaml.cs" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Page1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Page2.xaml.cs" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Page2.xaml.cs">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="TestNavigationWindow.xaml.cs" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\TestNavigationWindow.xaml.cs">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="TestWindow.xaml.cs" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\TestWindow.xaml.cs">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Window1.xaml.cs" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="app.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\app.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Page1.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Page1.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Page2.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Page2.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\Button.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\Button.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\CheckBox.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\CheckBox.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\ComboBox.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\ComboBox.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\DocumentViewer.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\DocumentViewer.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\ResizeGrip.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\ResizeGrip.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="TestNavigationWindow.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\TestNavigationWindow.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="TestWindow.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\TestWindow.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\Window.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\Window.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\NavigationWindow.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\NavigationWindow.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\StatusBar.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\StatusBar.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\ScrollViewer.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\ScrollViewer.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\Frame.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\Frame.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\ListView.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\ListView.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\Expander.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\Expander.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\GroupBox.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\GroupBox.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\Label.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\Label.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\ListBox.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\ListBox.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\Menu.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\Menu.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\ProgressBar.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\ProgressBar.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\RadioButton.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\RadioButton.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\ScrollBar.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\ScrollBar.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\Separator.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\Separator.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\Shared.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\Shared.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\Slider.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\Slider.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\TabControl.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\TabControl.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\TextBox.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\TextBox.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\ToolBar.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\ToolBar.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\ToolTip.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\ToolTip.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Resources\TreeView.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Resources\TreeView.xaml">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="Window1.xaml" Description="File successfully backed up as D:\Work\Lessons\CBS_CS_WPF\zTemplates\SimpleStyles\Backup\Window1.xaml">
+</Event><Event ErrorLevel="1" Project="SimpleStyles" Source="SimpleStyles.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="SimpleStyles.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimpleStyles" Source="SimpleStyles.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SimpleStyles.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SimpleStyles.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimpleStyles" Source="SimpleStyles.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
